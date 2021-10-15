@@ -10,3 +10,6 @@ edad = edad + 1;
 
 
 console.log(nombre + " "+ apellido + " " + " tiene " + edad + " años ");
+
+
+// hemos terminado
